@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:sweet_berries": 4,
+      "minecraft:wooden_axe": 6,
+      "minecraft:crafting_table": 1,
+      "minecraft:blue_egg": 3
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 2690,
+      "minecraft:walk_one_cm": 16722,
+      "minecraft:leave_game": 7,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 156,
+      "minecraft:damage_taken": 610,
+      "minecraft:damage_dealt": 312,
+      "minecraft:play_time": 14049,
+      "minecraft:jump": 246,
+      "minecraft:time_since_death": 2635,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 45809,
+      "minecraft:fall_one_cm": 6525,
+      "minecraft:swim_one_cm": 7039,
+      "minecraft:total_world_time": 14049,
+      "minecraft:fly_one_cm": 64835,
+      "minecraft:walk_on_water_one_cm": 174,
+      "minecraft:sneak_time": 42,
+      "minecraft:deaths": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_log": 8,
+      "minecraft:brown_mushroom": 1,
+      "minecraft:sweet_berries": 13,
+      "minecraft:blue_egg": 3,
+      "minecraft:stick": 1,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:spider": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:spruce_planks": 12,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:fern": 3,
+      "minecraft:spruce_log": 8,
+      "minecraft:crafting_table": 1,
+      "minecraft:sweet_berry_bush": 5,
+      "minecraft:large_fern": 4
+    }
+  },
+  "DataVersion": 4790
+}
